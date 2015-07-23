@@ -174,7 +174,6 @@
 
   <modules>
     <module>lib</module>
-    <module>osgi-bundles</module>
     <module>extensions</module>
     <module>apps</module>
   </modules>
