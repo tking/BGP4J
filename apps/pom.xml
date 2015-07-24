@@ -92,12 +92,6 @@
       <version>${version.org.bgp4j}</version>
     </dependency>
 
-    <dependency>
-      <groupId>org.bgp4j</groupId>
-      <artifactId>snmp4j-easybox</artifactId>
-      <version>${version.org.bgp4j}</version>
-    </dependency>
-
     <dependency> 
       <groupId>log4j</groupId> 
       <artifactId>log4j</artifactId> 
